@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yashvi-2007
-- 👀 I’m interested in exploring the coding world
-- 🌱 I’m currently learning frontend 
+- 👀 I’m interested in exploring the coding World 
 - 💞️ I’m looking to collaborate with other respected coders
 - 📫 How to reach me: yashvikansara789@gmail.com
 
